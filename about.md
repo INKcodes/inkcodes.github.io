@@ -1,0 +1,2 @@
+title: "ABOUT"
+permalink: /about/
