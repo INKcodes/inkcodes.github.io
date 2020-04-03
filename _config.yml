@@ -1,2 +1,12 @@
 remote_theme: thelehhman/plainwhite-jekyll
 title: It's all about the code!
+#https://github.com/thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  social_links:
+    twitter: thelehhman
+    github: thelehhman
+    linkedIn: in/thelehhman # format: locale/username
