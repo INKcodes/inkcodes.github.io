@@ -6,4 +6,7 @@ plainwhite:
   tagline: Developer. Gamer
   date_format: "%b %-d, %Y"
   sitemap: true
+  dark_mode: true
   social_links:
+    youtube: https://www.youtube.com/channel/UCRL19xDx-myFDJDYnyK3NbA
+    github: INKcodes
